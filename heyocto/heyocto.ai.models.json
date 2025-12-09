@@ -148,11 +148,6 @@
 					}
 				],
 				"namespace": "ai.gen.util.aws-1.0.0",
-				"_host":
-				{
-					"name": "api.groq.com",
-					"path": "/openai/v1/chat/completions"
-				},
 				"keypath": "ai.keys.aws"
 			}
 		],
